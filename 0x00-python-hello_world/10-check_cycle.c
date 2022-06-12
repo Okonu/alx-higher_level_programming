@@ -3,7 +3,7 @@
 /**
  *check_cycle - checks if there a loop in a linked list
  *It uses the floyed-cycle algorithm
- *@list: head of the linked list
+ *@list: head of the linked least
  *Return: 1 if there is a loop, 0 if there isn't
  */
 int check_cycle(listint_t *list)
